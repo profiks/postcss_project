@@ -1,0 +1,31 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "PostCSS boilerplate",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/profiks/postcss_project.git"
+  },
+  "keywords": [
+    "postcss",
+    "css3"
+  ],
+  "author": "Denys Arkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/profiks/postcss_project/issues"
+  },
+  "homepage": "https://github.com/profiks/postcss_project#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-postcss": "^6.1.1",
+    "gulp-sass": "^2.3.1",
+    "postcss-easysprites": "^0.1.5"
+  }
+}
